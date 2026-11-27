@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<!-- ANIMATED DYNAMIC TOP WAVE WITH GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,20:071527,50:00527A,80:00B4D8,100:00F5D4&text=HAZEM%20KHALED&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=LEAD%20DATA%20ANALYST%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20ENGINEER&descSize=18&descColor=00F5D4&descAlignY=58" width="100%"/>
+<!-- DYNAMIC ANIMATED TOP WAVE WITH ELECTRIC GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=295&color=0:020617,18:0A192F,48:00527A,78:00B4D8,100:00F5D4&text=HAZEM%20KHALED&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=LEAD%20DATA%20ANALYST%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20ENGINEER&descSize=18&descColor=00F5D4&descAlignY=58" width="100%"/>
 
 <br>
 
-<!-- SMOOTH TYPING ANIMATION (3 LOOPS WITH CYBER GLOW) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=840&lines=%E2%9A%A1+Architecting+End-to-End+BI+Pipelines+%26+Executive+Cockpits;%F0%9F%93%8A+Transforming+Raw+Data+into+Multimillion-Dollar+Decisions;%F0%9F%A7%A0+Advanced+Power+BI+(DAX+%2B+Tabular+Modeling)+%7C+SQL+%7C+Python+%7C+ETL;%F0%9F%94%A5+Predictive+Analytics+%26+Dimensional+Data+Warehousing" alt="Dynamic Typing Stream"/>
+<!-- SMOOTH HIGH-CONTRAST TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Architecting+End-to-End+BI+Pipelines+%26+Executive+Cockpits;%F0%9F%93%8A+Transforming+Raw+Data+into+High-Impact+Business+Decisions;%F0%9F%A7%A0+Advanced+Power+BI+(DAX+%2B+Tabular+Modeling)+%7C+SQL+%7C+Python+%7C+ETL;%F0%9F%94%A5+Predictive+Analytics+%26+Dimensional+Data+Warehousing" alt="Dynamic Typing Stream"/>
 
 <br><br>
 
-<!-- INTERACTIVE CALL-TO-ACTION BUTTONS (ANIMATED HOVER EFFECT) -->
+<!-- INTERACTIVE CALL-TO-ACTION BUTTONS -->
 <a href="https://www.linkedin.com/in/hazem-khaled-data" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
 </a>
@@ -29,10 +29,10 @@
 
 <br><br>
 
-<!-- REAL-TIME STATUS BADGES -->
+<!-- REAL-TIME METRICS & STATUS BADGES -->
 <img src="https://img.shields.io/badge/%F0%9F%94%8E%20DISCIPLINE-BI%20ENGINEERING%20%26%20ANALYTICS-00527A?style=flat-square&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20AVAILABILITY-OPEN%20TO%20HIGH--IMPACT%20ROLES-00F5D4?style=flat-square&color=00F5D4&labelColor=020617"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20STATUS-OPEN%20TO%20HIGH--IMPACT%20ROLES-00F5D4?style=flat-square&color=00F5D4&labelColor=020617"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=hazem897&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VIEWS&color=00B4D8&style=flat-square"/>
 
@@ -50,7 +50,7 @@
 
 | 🏛️ **Domain Specializations** | ⚙️ **Core Tech Arsenal** | 📊 **Deliverables & Solutions** | 🌍 **Location** |
 | :--- | :--- | :--- | :--- |
-| **Enterprise BI & Decision Support** | `Power BI` `DAX` `SQL` `Python` `Talend` | Executive Cockpits & DWH Architectures | **Tunisia 🇹🇳 (Global Remote Ready)** |
+| **Enterprise BI & Decision Systems** | `Power BI` `DAX` `SQL` `Python` `Talend` | Executive Cockpits & DWH Architectures | **Tunisia 🇹🇳 (Global Remote Ready)** |
 
 </div>
 
@@ -62,7 +62,7 @@
 
 ### 💡 Executive Profile & Strategic Impact
 
-I am a **Data Analyst & BI Engineer** specialized in translating sprawling, high-dimensional transactional datasets into reliable, executive-ready analytical intelligence.
+I am a **Data Analyst & BI Engineer** specialized in converting high-volume, multi-source enterprise data into reliable, executive-ready analytical intelligence.
 
 Rather than building isolated surface-level charts, I engineer the **full data continuum**:
 
@@ -120,13 +120,13 @@ Rather than building isolated surface-level charts, I engineer the **full data c
 flowchart LR
     subgraph S1["1. MULTI-SOURCE INGESTION"]
         A1["Transactional DBs<br/>(PostgreSQL / SQL Server)"]
-        A2["Retail & IoT Feeds<br/>(APIs / REST / Webhooks)"]
-        A3["Operational Logs<br/>(CSV / JSON / Parquet)"]
+        A2["Business APIs & IoT<br/>(REST / JSON / Webhooks)"]
+        A3["Operational Logs<br/>(CSV / Parquet)"]
     end
 
     subgraph S2["2. DATA ENGINEERING & ETL"]
         B1["ETL / ELT Automation<br/>(Talend / Python Pipelines)"]
-        B2["Data Cleansing & Rules<br/>(Validation / Standardization)"]
+        B2["Data Cleansing & Validation<br/>(Standardization & Quality Rules)"]
     end
 
     subgraph S3["3. DATA WAREHOUSE & MODELING"]
@@ -135,7 +135,7 @@ flowchart LR
 
     subgraph S4["4. ANALYTICAL INTELLIGENCE"]
         D1["Power BI Tabular Engine<br/>High-Performance DAX"]
-        D2["Predictive Analytics Layer<br/>(XGBoost / Churn & Sales Risk)"]
+        D2["Predictive Analytics Layer<br/>(XGBoost / Attrition & Sales Risk)"]
     end
 
     subgraph S5["5. EXECUTIVE IMPACT"]
@@ -215,9 +215,9 @@ flowchart LR
 <!--                      FLAGSHIP CASE STUDIES                        -->
 <!-- ================================================================= -->
 
-## 🚀 Strategic Projects & Case Studies
+## 🚀 Strategic Projects & Production Case Studies
 
-<p align="center"><i>End-to-end architectures addressing mission-critical business problems with measurable KPIs.</i></p>
+<p align="center"><i>Each project addresses a critical enterprise challenge with measurable business KPIs and production code.</i></p>
 
 <table>
 
@@ -273,7 +273,7 @@ flowchart LR
 </td>
 </tr>
 
-<!-- RETAIL SALES INVENTORY (NEW) -->
+<!-- RETAIL SALES INVENTORY -->
 <tr>
 <td width="72%" valign="top">
 
@@ -299,15 +299,15 @@ flowchart LR
 </td>
 </tr>
 
-<!-- WEATHER ANALYTICS & MONITORING (NEW) -->
+<!-- WEATHER ANALYTICS & MONITORING -->
 <tr>
 <td width="72%" valign="top">
 
-### 🌦️ 04. Weather Analytics & Monitoring Dashboard
-**Climatic Intelligence, Historical Trends & Predictive Environmental Insights**
+### 🌦️ 04. [Weather Analytics & Monitoring Dashboard](https://github.com/hazem897/Weather-Analytics-Monitoring-Dashboard)
+**Climatic Intelligence, Historical Trends & Environmental Analytics**
 
-- 🎯 **Business Problem:** Correlating meteorological variables (precipitation, humidity, air quality) to anticipate weather impact on local sectors.
-- 💡 **Solution:** Pipeline ingesting historical data and forecast feeds into a high-visibility interactive monitoring system with dynamic comparative maps.
+- 🎯 **Business Problem:** Correlating meteorological variables (precipitation, humidity, air quality) to anticipate weather impact on regional sectors.
+- 💡 **Solution:** Automated pipeline ingesting historical climate datasets and forecast feeds into a high-visibility interactive monitoring system with dynamic comparative maps.
 - 📈 **Key Analytical Metrics:** Variance vs. Historical Norms, Precipitation Severity Index, Microclimate Trends, Air Quality Indicators.
 - 🧰 **Tech Stack:** `Python` `Power BI` `Data Cleansing` `Geographical Analytics`
 
@@ -318,7 +318,9 @@ flowchart LR
 <br><br>
 <img src="https://img.shields.io/badge/ANALYTICS-FORECASTING-00527A?style=flat-square"/>
 <br><br>
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-10B981?style=for-the-badge"/>
+<a href="https://github.com/hazem897/Weather-Analytics-Monitoring-Dashboard" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
 </td>
 </tr>
@@ -327,10 +329,10 @@ flowchart LR
 <tr>
 <td width="72%" valign="top">
 
-### 👥 05. HR Workforce Analytics & Attrition Early-Warning
+### 👥 05. [HR Analytics & Employee Attrition Intelligence](https://github.com/hazem897/HR-Analytics-Employee-Attrition-Intelligence)
 **Human Capital Intelligence & Predictive Flight-Risk Modeling**
 
-- 🎯 **Business Problem:** High unplanned turnover among key personnel with insufficient visibility into compensation equity and career stagnation.
+- 🎯 **Business Problem:** High unplanned employee turnover in critical business units without visibility into compensation equity, tenure burnout, or engagement trends.
 - 💡 **Solution:** Built an executive HR dashboard providing early attrition warnings, employee satisfaction correlation, and demographic diversity analytics.
 - 📈 **Key Analytical Metrics:** Voluntary Attrition Rate, Compa-Ratio Parity, Performance vs. Flight Risk, Tenure Retention Curves.
 - 🧰 **Tech Stack:** `Power BI` `DAX Patterns` `HR Fact Tables` `Data Modeling`
@@ -342,7 +344,9 @@ flowchart LR
 <br><br>
 <img src="https://img.shields.io/badge/ATTRITION-PREDICTIVE%20MODEL-8B5CF6?style=flat-square"/>
 <br><br>
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-10B981?style=for-the-badge"/>
+<a href="https://github.com/hazem897/HR-Analytics-Employee-Attrition-Intelligence" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
 </td>
 </tr>
