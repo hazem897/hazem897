@@ -19,6 +19,11 @@
 
 <br><br>
 
+<!-- PRIMARY ACTION BUTTONS -->
+<a href="https://hazem-khaled-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-hazem--khaled--portfolio.vercel.app-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/hazem-khaled-data" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -26,14 +31,34 @@
 <a href="mailto:hazemhazem9089@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-&nbsp;
-<a href="https://github.com/hazem897?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Projects-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub Badge"/>
-</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=hazem897&label=PROFILE%20VIEWS&color=00B4D8&style=flat-square" alt="Profile views"/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                    MY PORTFOLIO SHOWCASE                  -->
+<!-- ========================================================= -->
+
+## 🌐 My Portfolio Website
+
+<div align="center">
+
+> **Explore my live interactive portfolio featuring interactive video demonstrations, end-to-end case studies, and multilingual access (EN / FR / AR):**
+> 
+> 👉 **[hazem-khaled-portfolio.vercel.app](https://hazem-khaled-portfolio.vercel.app/)** 👈
+
+<br>
+
+<a href="https://hazem-khaled-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO%20%E2%9E%9C-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050B14" alt="Explore Portfolio Button" height="38"/>
+</a>
 
 </div>
 
@@ -369,6 +394,10 @@ I am actively open to discussing **Data Analyst**, **Business Intelligence Devel
 
 <br>
 
+<a href="https://hazem-khaled-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hazem-khaled-data" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
