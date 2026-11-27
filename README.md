@@ -1,40 +1,39 @@
-<!-- ================================================================= -->
-<!--                         HERO SECTION (ANIMATED)                   -->
-<!-- ================================================================= -->
+<!-- ========================================================= -->
+<!--                        HERO SECTION                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<!-- DYNAMIC ANIMATED TOP WAVE WITH ELECTRIC GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=295&color=0:020617,18:0A192F,48:00527A,78:00B4D8,100:00F5D4&text=HAZEM%20KHALED&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=LEAD%20DATA%20ANALYST%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20ENGINEER&descSize=18&descColor=00F5D4&descAlignY=58" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050B14,40:071A2E,75:0B3D66,100:00B4D8&text=HAZEM%20KHALED&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20DEVELOPER&descSize=18&descColor=00E5FF&descAlignY=58"
+  alt="Hazem Khaled - Header"
+  width="100%"
+/>
 
 <br>
 
-<!-- SMOOTH HIGH-CONTRAST TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Architecting+End-to-End+BI+Pipelines+%26+Executive+Cockpits;%F0%9F%93%8A+Transforming+Raw+Data+into+High-Impact+Business+Decisions;%F0%9F%A7%A0+Advanced+Power+BI+(DAX+%2B+Tabular+Modeling)+%7C+SQL+%7C+Python+%7C+ETL;%F0%9F%94%A5+Predictive+Analytics+%26+Dimensional+Data+Warehousing" alt="Dynamic Typing Stream"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence+Developer;Power+BI+%7C+DAX+%7C+SQL+%7C+Python+%7C+ETL;Building+analytical+dashboards+for+decision+support;Turning+complex+data+into+clear+business+insights"
+  alt="Typing animation"
+/>
 
 <br><br>
 
-<!-- INTERACTIVE CALL-TO-ACTION BUTTONS -->
 <a href="https://www.linkedin.com/in/hazem-khaled-data" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:hazemhazem9089@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/hazem897?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=00F5D4" height="36"/>
+  <img src="https://img.shields.io/badge/GitHub%20Projects-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub Badge"/>
 </a>
 
 <br><br>
 
-<!-- REAL-TIME METRICS & STATUS BADGES -->
-<img src="https://img.shields.io/badge/%F0%9F%94%8E%20DISCIPLINE-BI%20ENGINEERING%20%26%20ANALYTICS-00527A?style=flat-square&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20STATUS-OPEN%20TO%20HIGH--IMPACT%20ROLES-00F5D4?style=flat-square&color=00F5D4&labelColor=020617"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=hazem897&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VIEWS&color=00B4D8&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=hazem897&label=PROFILE%20VIEWS&color=00B4D8&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -42,402 +41,356 @@
 
 ---
 
-<!-- ================================================================= -->
-<!--                       EXECUTIVE DASHBOARD HUD                     -->
-<!-- ================================================================= -->
+<!-- ========================================================= -->
+<!--                      ABOUT ME                             -->
+<!-- ========================================================= -->
+
+## 👋 About Me
+
+I am a **Data Analyst and Business Intelligence Developer** based in **Tunisia**, open to on-site and **international remote opportunities**.
+
+I specialize in the end-to-end analytics workflow: extracting data from relational databases, designing automated **ETL/ELT data pipelines**, building structured **analytical data models**, and delivering intuitive **Power BI dashboards** for decision-makers.
+
+My project experience spans key domains such as **Telecommunications, Banking & Fraud Analytics, Retail Sales & Inventory, Weather Intelligence, and HR Analytics**.
+
+- 🎯 **Primary Focus:** Business Intelligence (Power BI & DAX), SQL analytics, ETL automation (Talend & Python), and dimensional modeling.
+- 💼 **Experience:** Business Intelligence Intern at **Ooredoo Tunisie** (telecom data pipelines, predictive models, and secure BI portals).
+- 🎓 **Education:** Currently pursuing a **Mastère Professionnel en Informatique (ISIC)** at FSEGN Nabeul.
+
+---
+
+<!-- ========================================================= -->
+<!--                    ANALYTICS WORKFLOW                     -->
+<!-- ========================================================= -->
+
+## 🔄 How I Work With Data
 
 <div align="center">
-
-| 🏛️ **Domain Specializations** | ⚙️ **Core Tech Arsenal** | 📊 **Deliverables & Solutions** | 🌍 **Location** |
-| :--- | :--- | :--- | :--- |
-| **Enterprise BI & Decision Systems** | `Power BI` `DAX` `SQL` `Python` `Talend` | Executive Cockpits & DWH Architectures | **Tunisia 🇹🇳 (Global Remote Ready)** |
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="64%" valign="top">
-
-### 💡 Executive Profile & Strategic Impact
-
-I am a **Data Analyst & BI Engineer** specialized in converting high-volume, multi-source enterprise data into reliable, executive-ready analytical intelligence.
-
-Rather than building isolated surface-level charts, I engineer the **full data continuum**:
-
-> 📥 **Ingestion ➔ 🧹 Automated ETL ➔ 📐 Kimball Star Schemas ➔ ⚡ DAX Intelligence ➔ 🎯 Executive KPI Dashboards**
-
-#### 🏆 What Makes My Work Unique:
-- **Business-First Metric Modeling:** Every measure directly maps to churn mitigation, revenue growth, inventory health, or operational throughput.
-- **Enterprise-Scale DWH Design:** Strict Kimball Star & Snowflake schemas optimized for sub-second aggregations on millions of rows.
-- **Machine Learning Integration:** Infusing predictive capabilities (e.g., XGBoost risk scoring) into production analytical dashboards.
-- **Security & Multi-Tenancy:** Production background building secure portals with **Role-Based Access Control (RBAC)** and 2FA.
-
-🎓 Pursuing a **Professional Master’s in Information Systems & Knowledge Engineering (ISIC)**.  
-💼 Former BI Intern at **Ooredoo Tunisie** (Enterprise Telecommunications).
-
-</td>
-
-<td width="36%" valign="top">
-
-### ⚡ Technical Competency Matrix
-
-<br>
-
-**Business Intelligence & Visualization**
-- Advanced DAX (Time Intelligence, Iterators, Calc Groups)
-- Tabular Modeling, Performance Analyzer & VertiPaq
-- Executive UI/UX Design & Human-Centered Storytelling
-
-**Data Architecture & Engineering**
-- Kimball Dimensional Modeling (Star / Snowflake)
-- Automated ETL / ELT Workflows (`Talend`, `Python`)
-- Enterprise RDBMS: `PostgreSQL`, `SQL Server`, `MySQL`
-
-**Analytical & Predictive Computing**
-- Advanced SQL (Window Functions, CTEs, Aggregations)
-- Python for Analytics (`Pandas`, `NumPy`, `Seaborn`)
-- Applied Machine Learning (`XGBoost`, `Scikit-learn`)
-
-**Full-Stack & Governance Integration**
-- Web Portals (`React`, `Node.js`, `Angular`)
-- Data Governance, RBAC Security, Audit Trails
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================================================================= -->
-<!--                   ENTERPRISE DATA PIPELINE FLOW                   -->
-<!-- ================================================================= -->
-
-## 🔄 End-to-End Enterprise Data Architecture Flow
 
 ```mermaid
 flowchart LR
-    subgraph S1["1. MULTI-SOURCE INGESTION"]
-        A1["Transactional DBs<br/>(PostgreSQL / SQL Server)"]
-        A2["Business APIs & IoT<br/>(REST / JSON / Webhooks)"]
-        A3["Operational Logs<br/>(CSV / Parquet)"]
-    end
+    A["Raw Data Sources<br/>(PostgreSQL / SQL Server / APIs / CSV)"] --> B["Data Integration & ETL<br/>(Talend / Python / Cleaning)"]
+    B --> C["Data Modeling<br/>(Star Schema / Relationships)"]
+    C --> D["Analysis & KPIs<br/>(SQL / Pandas / DAX Measures)"]
+    D --> E["BI Dashboards<br/>(Power BI Visual Storytelling)"]
+    E --> F["Decision Support<br/>(Actionable Business Insights)"]
 
-    subgraph S2["2. DATA ENGINEERING & ETL"]
-        B1["ETL / ELT Automation<br/>(Talend / Python Pipelines)"]
-        B2["Data Cleansing & Validation<br/>(Standardization & Quality Rules)"]
-    end
-
-    subgraph S3["3. DATA WAREHOUSE & MODELING"]
-        C1[("Enterprise DWH<br/>Kimball Star Schema<br/>Facts & Conformed Dims")]
-    end
-
-    subgraph S4["4. ANALYTICAL INTELLIGENCE"]
-        D1["Power BI Tabular Engine<br/>High-Performance DAX"]
-        D2["Predictive Analytics Layer<br/>(XGBoost / Attrition & Sales Risk)"]
-    end
-
-    subgraph S5["5. EXECUTIVE IMPACT"]
-        E1["Decision-Support Cockpits<br/>Cross-Department Insights"]
-        E2["Measurable Business ROI<br/>Data-Driven Strategy"]
-    end
-
-    A1 & A2 & A3 --> B1 --> B2 --> C1 --> D1 & D2 --> E1 --> E2
-
-    classDef ing fill:#0A192F,stroke:#00B4D8,stroke-width:1px,color:#fff;
-    classDef eng fill:#003554,stroke:#00B4D8,stroke-width:1px,color:#fff;
-    classDef dwh fill:#006494,stroke:#00F5D4,stroke-width:2px,color:#fff;
-    classDef bi fill:#0582CA,stroke:#00F5D4,stroke-width:1px,color:#fff;
-    classDef val fill:#00F5D4,stroke:#00B4D8,stroke-width:2px,color:#020617;
-
-    class A1,A2,A3 ing;
-    class B1,B2 eng;
-    class C1 dwh;
-    class D1,D2 bi;
-    class E1,E2 val;
+    style A fill:#071A2E,stroke:#00B4D8,stroke-width:1px,color:#fff
+    style B fill:#0B3D66,stroke:#00B4D8,stroke-width:1px,color:#fff
+    style C fill:#126782,stroke:#00E5FF,stroke-width:1px,color:#fff
+    style D fill:#168AAD,stroke:#00E5FF,stroke-width:1px,color:#fff
+    style E fill:#00A6C7,stroke:#00E5FF,stroke-width:1px,color:#000
+    style F fill:#00E5FF,stroke:#00B4D8,stroke-width:2px,color:#050B14
 ```
-
----
-
-<!-- ================================================================= -->
-<!--                        TECHNICAL ARSENAL                          -->
-<!-- ================================================================= -->
-
-## 🛠️ Technology Stack & Tooling
-
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="25%"><b>BI & Visualization</b></td>
-  <td align="center" width="25%"><b>Data Engineering & ML</b></td>
-  <td align="center" width="25%"><b>Databases & DWH</b></td>
-  <td align="center" width="25%"><b>Full-Stack & DevOps</b></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="50"/><br><br>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/><br>
-    <img src="https://img.shields.io/badge/Advanced_DAX-0A192F?style=flat-square&logo=powerbi&logoColor=F2C811"/><br>
-    <img src="https://img.shields.io/badge/Star_Schema-00B4D8?style=flat-square"/><br>
-    <img src="https://img.shields.io/badge/Tabular_Modeling-00F5D4?style=flat-square&logoColor=black"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br><br>
-    <img src="https://img.shields.io/badge/Talend_ETL-FF5D5B?style=flat-square&logo=talend&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="98"/><br><br>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/DWH_Kimball-00527A?style=flat-square"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,git,github&theme=dark" width="180"/><br><br>
-    <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Java_/_PHP-ED8B00?style=flat-square&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Git_/_GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-<!-- ================================================================= -->
-<!--                      FLAGSHIP CASE STUDIES                        -->
-<!-- ================================================================= -->
+<!-- ========================================================= -->
+<!--                    TECHNICAL SKILLS                       -->
+<!-- ========================================================= -->
 
-## 🚀 Strategic Projects & Production Case Studies
-
-<p align="center"><i>Each project addresses a critical enterprise challenge with measurable business KPIs and production code.</i></p>
+## 🛠️ Technical Skills
 
 <table>
+<tr>
+  <td width="50%" valign="top">
 
-<!-- TELECOM CHURN CASE -->
+### 📊 Business Intelligence & Analytics
+- **Tools:** Power BI, DAX, Power Query (M), Data Visualization
+- **Core Strengths:** Star Schema Modeling, Time Intelligence, Custom KPIs, Drill-Through Reports, Dashboard UI Design
+
+<br>
+
+### 🔍 Data Analysis & Computation
+- **Languages:** SQL, Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Techniques:** Exploratory Data Analysis (EDA), Cohort Analysis, Statistical Summaries, Data Cleaning
+
+  </td>
+  <td width="50%" valign="top">
+
+### ⚙️ Data Engineering & ETL
+- **Integration Tools:** Talend Open Studio
+- **Workflows:** ETL / ELT pipeline design, Data Cleansing, Data Transformation, Automated File Ingestion
+
+<br>
+
+### 🗄️ Relational Databases & Storage
+- **Databases:** PostgreSQL, MySQL, Microsoft SQL Server
+- **Database Skills:** Complex Queries, Joins, Window Functions, Aggregate Queries, Schema Design
+
+<br>
+
+### 💻 Development & Version Control
+- **Web & Backend:** React, Node.js, Angular, Java, PHP *(explored through project integration)*
+- **Tools:** Git, GitHub, VS Code
+
+  </td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                   FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+A curated selection of decision-support and data analytics projects built across various business domains.
+
+<br>
+
+<!-- PROJECT 1: TELECOM CHURN -->
+<table>
 <tr>
 <td width="72%" valign="top">
 
-### 📡 01. [Telecom Customer Churn & Retention Analytics](https://github.com/hazem897/Telecom-Customer-Churn-Analytics)
-**Executive Retention & Revenue Risk Intelligence**
+### 📡 [Telecom Customer Churn Analytics](https://github.com/hazem897/Telecom-Customer-Churn-Analytics)
+**Customer Retention & Attrition Analysis**
 
-- 🎯 **Business Problem:** High subscriber churn causing heavy recurring revenue attrition and inflated customer acquisition costs (CAC).
-- 💡 **Solution:** Built an end-to-end Power BI solution modeling customer cohorts, contract tenure risk distributions, and bundle churn correlations.
-- 📈 **Key Analytical Metrics:** Churn Rate by Contract, Customer Lifetime Value (CLV), Monthly Recurring Revenue (MRR) at risk, Tenure Hazard.
-- 🧰 **Tech Stack:** `Power BI` `Advanced DAX` `Star Schema Data Modeling` `ETL Pipeline`
+- **Business Problem:** Telecom operators face customer turnover that erodes monthly revenue. Identifying why subscribers leave and which customer cohorts are most vulnerable is essential for targeted retention campaigns.
+- **Implemented Solution:** Developed a structured Power BI reporting solution that segments customer demographics, service contract terms, and usage patterns to pinpoint specific churn risk factors.
+- **Key Features:** Contract-type churn analysis, payment method risk comparison, tenure group distributions, customer segment filters, and actionable retention KPIs.
+- **Tech Stack:** `Power BI` `DAX` `Data Modeling` `Data Cleaning` `CSV`
 
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/DOMAIN-TELECOMS-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-TELECOMS-00B4D8?style=for-the-badge" alt="Domain Telecom"/>
 <br><br>
-<img src="https://img.shields.io/badge/POWER_BI-PRODUCTION-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/TOOL-POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI Tool"/>
 <br><br>
 <a href="https://github.com/hazem897/Telecom-Customer-Churn-Analytics" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050B14" alt="View Project"/>
 </a>
 
 </td>
 </tr>
 
-<!-- BANKING FRAUD CASE -->
+<!-- PROJECT 2: BANKING & FRAUD -->
 <tr>
 <td width="72%" valign="top">
 
-### 🏦 02. [Banking Customer Analytics & Anti-Fraud Security Portal](https://github.com/hazem897/Banking-Customer-Analytics-Fraud-Detection)
-**High-Security Financial Intelligence & Anomaly Scoring**
+### 🏦 [Banking Customer Analytics & Fraud Detection](https://github.com/hazem897/Banking-Customer-Analytics-Fraud-Detection)
+**Financial Intelligence & Anomaly Monitoring Platform**
 
-- 🎯 **Business Problem:** Rapid identification of unauthorized financial transactions across merchant terminals while reducing customer friction.
-- 💡 **Solution:** Engineered a full-stack intelligence platform integrating live transaction telemetry, automated fraud flags, and security controls.
-- 📈 **Key Analytical Metrics:** Anomaly Velocity Score, High-Risk Merchant Proportions, Geographic Deviation Flags, False-Positive Reductions.
-- 🧰 **Tech Stack:** `Angular` `Node.js` `PostgreSQL` `Power BI Embedded` `RBAC + 2FA`
+- **Business Problem:** Financial institutions need unified monitoring systems to supervise transactions, track suspicious activity across merchants, and minimize financial exposure without compromising user security.
+- **Implemented Solution:** Engineered a full-stack analytical platform combining operational transaction reporting with role-based access control (RBAC) and two-factor authentication (2FA) for secure management review.
+- **Key Features:** Customer account profiling, transaction volume trends, suspicious activity flag monitoring, merchant categories breakdown, and interactive security controls.
+- **Tech Stack:** `Angular` `Node.js` `PostgreSQL` `SQL` `Power BI` `RBAC / 2FA`
 
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/DOMAIN-FINTECH%20&%20RISK-FF4D6D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-BANKING%20%26%20RISK-00A6C7?style=for-the-badge" alt="Domain Banking"/>
 <br><br>
-<img src="https://img.shields.io/badge/SECURITY-RBAC%20%7C%202FA-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/SECURITY-RBAC%20%26%202FA-10B981?style=flat-square" alt="Security RBAC"/>
 <br><br>
 <a href="https://github.com/hazem897/Banking-Customer-Analytics-Fraud-Detection" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050B14" alt="View Project"/>
 </a>
 
 </td>
 </tr>
 
-<!-- RETAIL SALES INVENTORY -->
+<!-- PROJECT 3: RETAIL SALES -->
 <tr>
 <td width="72%" valign="top">
 
-### 🛒 03. [Retail Sales & Inventory Analytics](https://github.com/hazem897/Retail-Sales-Inventory-Analytics)
-**Omnichannel Commercial Intelligence & Inventory Health Optimization**
+### 🛒 [Retail Sales & Inventory Analytics](https://github.com/hazem897/Retail-Sales-Inventory-Analytics)
+**Commercial Performance & Stock Level Monitoring**
 
-- 🎯 **Business Problem:** Mismatches between demand spikes and warehouse stock levels resulting in stockouts, excess holding costs, and margin degradation.
-- 💡 **Solution:** Designed a multi-tier analytical dashboard combining retail transaction analysis, stock turnover indicators, and product performance matrices.
-- 📈 **Key Analytical Metrics:** Gross Margin Return on Investment (GMROI), Sell-Through Rate, Stockout Frequency, Revenue per Category.
-- 🧰 **Tech Stack:** `Power BI` `DAX` `Python` `SQL` `Dimensional Data Modeling`
+- **Business Problem:** Retail managers struggle with balancing inventory holding costs and avoiding stockouts across multiple product categories and sales periods.
+- **Implemented Solution:** Built an analytics dashboard tracking revenue performance, order trends, product margin contributions, and warehouse inventory movements.
+- **Key Features:** Sales trends over time, category-level revenue contributions, stock availability status, reorder point indicators, and store performance breakdowns.
+- **Tech Stack:** `Power BI` `DAX` `Python` `SQL` `Data Modeling`
 
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/DOMAIN-RETAIL%20&%20COMMERCE-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-RETAIL%20%26%20SALES-126782?style=for-the-badge" alt="Domain Retail"/>
 <br><br>
-<img src="https://img.shields.io/badge/INVENTORY-OPTIMIZED-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-SALES%20%26%20STOCK-00B4D8?style=flat-square" alt="Focus Sales"/>
 <br><br>
 <a href="https://github.com/hazem897/Retail-Sales-Inventory-Analytics" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050B14" alt="View Project"/>
 </a>
 
 </td>
 </tr>
 
-<!-- WEATHER ANALYTICS & MONITORING -->
+<!-- PROJECT 4: WEATHER MONITORING -->
 <tr>
 <td width="72%" valign="top">
 
-### 🌦️ 04. [Weather Analytics & Monitoring Dashboard](https://github.com/hazem897/Weather-Analytics-Monitoring-Dashboard)
-**Climatic Intelligence, Historical Trends & Environmental Analytics**
+### 🌦️ [Weather Analytics & Monitoring Dashboard](https://github.com/hazem897/Weather-Analytics-Monitoring-Dashboard)
+**Meteorological Trends & Regional Climate Comparison**
 
-- 🎯 **Business Problem:** Correlating meteorological variables (precipitation, humidity, air quality) to anticipate weather impact on regional sectors.
-- 💡 **Solution:** Automated pipeline ingesting historical climate datasets and forecast feeds into a high-visibility interactive monitoring system with dynamic comparative maps.
-- 📈 **Key Analytical Metrics:** Variance vs. Historical Norms, Precipitation Severity Index, Microclimate Trends, Air Quality Indicators.
-- 🧰 **Tech Stack:** `Python` `Power BI` `Data Cleansing` `Geographical Analytics`
+- **Business Problem:** Meteorological and environmental datasets require structured cleaning and visual consolidation to analyze weather variances across cities and evaluate historical trends.
+- **Implemented Solution:** Designed a data pipeline in Python to ingest, clean, and format weather observations, followed by an interactive dashboard enabling spatial and temporal comparisons across Tunisian cities.
+- **Key Features:** Temperature trends, precipitation tracking, comparative city climate metrics, seasonal variations, and key environmental indicators.
+- **Tech Stack:** `Python` `Pandas` `Power BI` `Data Modeling` `Data Cleaning`
 
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/DOMAIN-METEOROLOGY-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-ENVIRONMENT-0B3D66?style=for-the-badge" alt="Domain Weather"/>
 <br><br>
-<img src="https://img.shields.io/badge/ANALYTICS-FORECASTING-00527A?style=flat-square"/>
+<img src="https://img.shields.io/badge/PIPELINE-PYTHON%20%2B%20BI-00A6C7?style=flat-square" alt="Pipeline Python BI"/>
 <br><br>
 <a href="https://github.com/hazem897/Weather-Analytics-Monitoring-Dashboard" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050B14" alt="View Project"/>
 </a>
 
 </td>
 </tr>
 
-<!-- HR ANALYTICS -->
+<!-- PROJECT 5: HR ATTRITION -->
 <tr>
 <td width="72%" valign="top">
 
-### 👥 05. [HR Analytics & Employee Attrition Intelligence](https://github.com/hazem897/HR-Analytics-Employee-Attrition-Intelligence)
-**Human Capital Intelligence & Predictive Flight-Risk Modeling**
+### 👥 [HR Analytics & Employee Attrition Intelligence](https://github.com/hazem897/HR-Analytics-Employee-Attrition-Intelligence)
+**Workforce Demographics & Attrition Factors**
 
-- 🎯 **Business Problem:** High unplanned employee turnover in critical business units without visibility into compensation equity, tenure burnout, or engagement trends.
-- 💡 **Solution:** Built an executive HR dashboard providing early attrition warnings, employee satisfaction correlation, and demographic diversity analytics.
-- 📈 **Key Analytical Metrics:** Voluntary Attrition Rate, Compa-Ratio Parity, Performance vs. Flight Risk, Tenure Retention Curves.
-- 🧰 **Tech Stack:** `Power BI` `DAX Patterns` `HR Fact Tables` `Data Modeling`
+- **Business Problem:** Unplanned employee turnover disrupts organizational performance. Human Resources teams need visibility into which departments, tenure levels, and compensation tiers exhibit higher attrition rates.
+- **Implemented Solution:** Constructed an analytical dashboard exploring HR metrics to identify demographic patterns, salary-to-role relationships, and tenure factors associated with employee departures.
+- **Key Features:** Departmental turnover rates, job satisfaction vs. attrition comparison, compensation equity breakdown, tenure distribution, and workforce headcounts.
+- **Tech Stack:** `Power BI` `DAX` `Data Modeling` `HR Fact Tables`
 
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/DOMAIN-HR%20ANALYTICS-A78BFA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-HR%20ANALYTICS-168AAD?style=for-the-badge" alt="Domain HR"/>
 <br><br>
-<img src="https://img.shields.io/badge/ATTRITION-PREDICTIVE%20MODEL-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANALYTICS-WORKFORCE-00E5FF?style=flat-square&logoColor=050B14" alt="Analytics Workforce"/>
 <br><br>
 <a href="https://github.com/hazem897/HR-Analytics-Employee-Attrition-Intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%9E%9C-00F5D4?style=for-the-badge&logo=github&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050B14" alt="View Project"/>
 </a>
 
 </td>
 </tr>
-
 </table>
 
 ---
 
-<!-- ================================================================= -->
-<!--                    PROFESSIONAL TRACK RECORD                      -->
-<!-- ================================================================= -->
+<!-- ========================================================= -->
+<!--                    PROFESSIONAL EXPERIENCE                -->
+<!-- ========================================================= -->
 
-## 💼 Professional Experience & Education
+## 💼 Professional Experience
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ 🔴 BUSINESS INTELLIGENCE INTERN • OOREDOO TUNISIE                                       │
-│    Decision Support Portal & Predictive Telecommunications Systems                     │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Architected a secure decision-support portal integrating BI with machine learning.   │
-│ • Engineered scalable Talend ETL workflows consolidating multi-source telecom data.    │
-│ • Deployed PostgreSQL data warehouse tables following Kimball dimensional principles. │
-│ • Designed executive Power BI dashboards with drill-through analytics & strict RBAC.   │
-│ • Implemented XGBoost predictive models for telecom customer behavior analytics.       │
-│                                                                                        │
-│ Tech: Power BI, Talend, PostgreSQL, Python, XGBoost, React, Node.js                    │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+### 🔴 Business Intelligence Intern — Ooredoo Tunisie
+*Internship | Telecommunications Analytics*
 
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ 🎓 EDUCATION & ACADEMIC CREDENTIALS                                                   │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Professional Master's: Information Systems & Knowledge Engineering (ISIC)            │
-│   Faculty of Economic Sciences and Management of Nabeul (FSEGN)                        │
-│                                                                                        │
-│ • Bachelor's Degree: Management Information Systems — Business Intelligence (2023-2026)│
-│   Faculty of Economic Sciences and Management of Nabeul (FSEGN)                        │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+Contributed to the development of a secure decision-support web portal integrating Business Intelligence workflows, data engineering, and predictive modeling:
+
+- **Data Integration & ETL:** Designed automated ETL jobs using **Talend Open Studio** to extract, cleanse, and load telecom operational data into a **PostgreSQL** database.
+- **Data Modeling & Storage:** Structured analytical tables and relationships within PostgreSQL to optimize query times for reporting.
+- **Power BI Dashboards:** Built interactive dashboards focusing on customer indicators, usage patterns, and operational performance metrics for internal stakeholders.
+- **Predictive Analytics:** Applied **Python** and the **XGBoost** library to train and evaluate predictive models identifying customer behavior patterns and potential churn indicators.
+- **Decision Portal Integration:** Assisted in integrating analytical views into a web-based portal developed with **React** and **Node.js**, respecting security and role-based access requirements.
+
+**Technologies Used:** `Power BI` · `Talend` · `PostgreSQL` · `Python` · `XGBoost` · `React` · `Node.js` · `SQL`
 
 ---
 
-<!-- ================================================================= -->
-<!--                       GITHUB LIVE ANALYTICS (ANIMATED)            -->
-<!-- ================================================================= -->
+<!-- ========================================================= -->
+<!--                        EDUCATION                          -->
+<!-- ========================================================= -->
 
-## 📈 Real-Time Engineering Telemetry
+## 🎓 Education
+
+### Mastère Professionnel en Informatique
+**Ingénierie des Systèmes d’Information et des Connaissances (ISIC)**  
+Faculté des Sciences Économiques et de Gestion de Nabeul (FSEGN)  
+*Current*
+
+---
+
+### Licence en Informatique de Gestion
+**Spécialité : Business Intelligence**  
+Faculté des Sciences Économiques et de Gestion de Nabeul (FSEGN)  
+`2023 — 2026`
+
+---
+
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
+## 📈 GitHub Activity & Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hazem897&show_icons=true&hide_border=true&theme=transparent&bg_color=020617&title_color=00F5D4&icon_color=00B4D8&text_color=E2E8F0&ring_color=00F5D4" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem897&layout=compact&hide_border=true&theme=transparent&bg_color=020617&title_color=00F5D4&text_color=E2E8F0" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=hazem897&show_icons=true&hide_border=true&theme=transparent&bg_color=050B14&title_color=00E5FF&icon_color=00B4D8&text_color=E2E8F0&ring_color=00E5FF"
+  alt="Hazem's GitHub Stats"
+/>
+&nbsp;
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem897&layout=compact&hide_border=true&theme=transparent&bg_color=050B14&title_color=00E5FF&text_color=E2E8F0"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazem897&hide_border=true&background=020617&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=E2E8F0&dates=64748B" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=hazem897&hide_border=true&background=050B14&ring=00E5FF&fire=00B4D8&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=64748B"
+  alt="GitHub Streak Stats"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazem897&bg_color=020617&color=00F5D4&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="96%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=hazem897&bg_color=050B14&color=00E5FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+  width="95%"
+/>
 
 </div>
 
 ---
 
-<!-- ================================================================= -->
-<!--                          CALL TO ACTION                           -->
-<!-- ================================================================= -->
+<!-- ========================================================= -->
+<!--                        CONTACT                            -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 🤝 Let's Architect High-Value Data Solutions Together
+## 🤝 Let's Connect
 
-I am open to **Senior / Lead Data Analyst & BI Engineering** opportunities, high-impact consulting, and end-to-end data pipeline deployments.
+I am actively open to discussing **Data Analyst**, **Business Intelligence Developer**, and **Power BI / Analytics** roles.
 
 <br>
 
 <a href="https://www.linkedin.com/in/hazem-khaled-data" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:hazemhazem9089@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hazemhazem9089%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hazem897" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub Profile"/>
 </a>
 
 <br><br>
 
-<sub>Designed with precision & engineered for business value • © Hazem Khaled</sub>
+<sub>Hazem Khaled • Data Analyst & Business Intelligence Developer</sub>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5D4,50:00B4D8,100:020617&section=footer" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:00B4D8,100:050B14&section=footer"
+  alt="Footer Wave"
+  width="100%"
+/>
 
 </div>
